@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="classlibrary/classlibrary.csproj" Id="cb33259c-daab-4863-b0d4-7343de4e7bf1" />
+  <Project Path="taxc/taxc.csproj" Id="0ccd5071-c6e5-4d26-a810-e0609fb4a258" />
+  <Project Path="TaxLibrary/TaxLibrary.csproj" />
+  <Project Path="universityclass/universityclass.csproj" Id="dc944e8a-0db4-4cc7-8a98-8e13a084f971" />
+</Solution>
